@@ -7,5 +7,7 @@ public class sintaxe_e_semantica {
         conta.exibirSaldo();
         conta.sacar(50.00);
         conta.exibirSaldo();
+        conta.sacar(50.00);
+        conta.exibirSaldo();
     }
 }
