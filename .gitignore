@@ -1,0 +1,9 @@
+# Ignorar configuração do IntelliJ/IDEA
+.idea/
+
+# Ignorar diretório de build/output
+out/
+
+# Outros arquivos que você não quer subir
+*.class
+*.log
