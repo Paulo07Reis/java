@@ -1,4 +1,4 @@
-package modulo_01_fundamentos_do_java.Aula05;
+package modulo_01_fundamentos_do_java.aula05;
 
 public class TiposWrapers {
     //Integer - Long - Double - Short - Byte - Bollean - Character
