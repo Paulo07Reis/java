@@ -7,7 +7,4 @@ public class Metodos {
 
     //Manter os métodos com apenas uma função
     public void somarImprimir(){} //Evite
-
-
-
 }
