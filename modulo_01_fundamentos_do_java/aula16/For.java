@@ -1,0 +1,11 @@
+package modulo_01_fundamentos_do_java.aula16;
+
+public class For {
+    public static void main(String[] args) {
+        int number = 10;
+
+        for(int i = 1; i <= number; i++){
+            System.out.println(i);
+        }
+    }
+}
